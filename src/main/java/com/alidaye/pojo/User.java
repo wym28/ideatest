@@ -8,4 +8,6 @@ public class User {
      * A用户修改了代码
      */
     private String age;
+
+    private String aUser;
 }
